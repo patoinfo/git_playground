@@ -11,7 +11,7 @@ spring:
     config:
       server:
         git:
-         uri: https://github.com/pretonik/config-repo
+         uri: https://github.com/patoinfo/git_playground
          basedir: target/config
 security:
    user:
